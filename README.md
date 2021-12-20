@@ -3,6 +3,7 @@
 Welcome to my Github Profile! Here you will find some projects created by me! 
 
 <h3 align="left">About me:</h3>
+
 - 👨‍💻 I started coding 3-4 years ago
 
 - 🔭 I'm living in Germany
