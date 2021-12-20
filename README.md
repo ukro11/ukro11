@@ -1,5 +1,5 @@
 <h1 align="left">Hello I'm ukro175</h1>
-<h3 align="left" style="font-weight: normal; text-space: 7px; font-size: 16px;">Welcome to my Github Profile! Here you will find some projects created by me!
+<h3 align="left" style="font-weight: normal; text-space: 7px; font-size: 16px;">Welcome to my Github Profile! Here you will find some projects created by me! \n
 I'm coding Minecraft Plugins and Clients (Java), Discord Bots (TypeScript) and other stuff... I'm living in Germany and yea</h3>
 
 
