@@ -26,5 +26,5 @@ Welcome to my Github Profile! Here you will find some projects created by me!
 
 
 
-<p style="padding-top: 10px">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
 
