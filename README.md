@@ -21,7 +21,7 @@ Welcome to my Github Profile! Here you will find some projects created by me!
 <p align="left"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></p>
 <p align="left"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukro175&show_icons=true&locale=en&layout=compact" alt="ukro175" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ukro175&show_icons=true&locale=en&layout=compact" alt="ukro175" /></p>
 
-<h3><img align="left" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
 
