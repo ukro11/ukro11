@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukro175&show_icons=true&locale=en&layout=compact" alt="ukro175" /></p>
 
-<p style="padding: 10px">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
+<p style="margin: 20px; padding: 20px;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
 
 
