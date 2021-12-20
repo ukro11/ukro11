@@ -1,4 +1,4 @@
-<h1 align="left">Hello i'm Mark - aka ukro175</h1>
+<h1 align="left">Hello I'm ukro175</h1>
 <h3 align="left" style="font-weight: normal; text-space: 7px;">Welcome to my Github Profile! Here you will find some projects created by me! Most of them are created with Java but maybe I will post some projects with TypeScript or something like that!</h3>
 
 
