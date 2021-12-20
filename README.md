@@ -1,11 +1,8 @@
 <h1 align="left">Hello i'm Mark - aka ukro175</h1>
 <h3 align="left" style="font-weight: normal; text-space: 7px;">Welcome to my Github Profile! Here you will find some projects created by me! Most of them are created with Java but maybe I will post some projects with TypeScript or something like that!</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukro175&show_icons=true&locale=en&layout=compact" alt="ukro175" /></p>
 
-<p style="transform: translateY(5%)">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
-
-<h3 align="left">Connect with me:</h3>
+<p style="font-size: 25px; font-weight: bold" align="left">Connect with me:</p>
 <p align="left"><img alt="Discord" src="https://img.shields.io/badge/@ukro175-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=white"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +13,8 @@
 <p align="left"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></p>
 <p align="left"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>
 
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukro175&show_icons=true&locale=en&layout=compact" alt="ukro175" /></p>
+
+<p style="padding-top: 10px">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ukro175&show_icons=true&locale=en" alt="ukro175"/></p>
+
 
