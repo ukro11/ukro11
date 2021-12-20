@@ -2,10 +2,10 @@
 <h3 align="left" style="font-weight: normal; text-space: 7px;">Welcome to my Github Profile! Here you will find some projects created by me! Most of them are created with Java but maybe I will post some projects with TypeScript or something like that!</h3>
 
 
-<p style="font-size: 25px; font-weight: bold" align="left">Connect with me:</p>
+<h3 align="left">Social-Media</h3>
 <p align="left"><img alt="Discord" src="https://img.shields.io/badge/@ukro175-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=white"/></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=white"/></p>
 <p align="left"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0068ba.svg?style=for-the-badge&logo=typescript&logoColor=white"/></p>
 <p align="left"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></p>
