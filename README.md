@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ukro11) <br>
-
+```
 
 
           $$\                             $$\     $$\   
@@ -12,7 +11,9 @@ $$ |  $$ |$$  _$$<  $$ |      $$ |  $$ |  $$ |    $$ |
  \______/ \__|  \__|\__|       \______/ \______|\______|
                                                         
                                                         
-                                                        
+                                                         
+```
+![](https://komarev.com/ghpvc/?username=ukro11) <br>
 Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are [Java](https://www.java.com/de/) and [Nodejs](https://nodejs.org/en/). Got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with [Electron](https://www.electronjs.org/)! 
 
 <h3 align="left">My favourite languanges</h3>
