@@ -23,7 +23,8 @@ Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favou
 <p align="left"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></p>
 <p align="left"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=white"/></p>
 <p align="left"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0068ba.svg?style=for-the-badge&logo=typescript&logoColor=white"/></p>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>	
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
