@@ -13,8 +13,11 @@ $$ |  $$ |$$  _$$<  $$ |      $$ |  $$ |  $$ |    $$ |
                                                         
                                                          
 ```
+
+<p align="center"><img width="100" src="image.png"></p>
+
 ![](https://komarev.com/ghpvc/?username=ukro11) <br>
-Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are [Java](https://www.java.com/de/) and [Nodejs](https://nodejs.org/en/). Got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with [Electron](https://www.electronjs.org/)! 
+Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are [Java](https://www.java.com/de/) and [Nodejs](https://nodejs.org/en/). I got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with [Electron](https://www.electronjs.org/)! 
 
 <h3 align="left">My favourite languanges</h3>
 <p align="left"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></p>
