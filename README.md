@@ -1,7 +1,4 @@
-
-![](https://komarev.com/ghpvc/?username=ukro11)
-
-<h1 align="left">Hello I'm ukro11</h1>
+![](https://komarev.com/ghpvc/?username=ukro11) Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are Java and Nodejs. Got also Knowledge about Webdevelopment, Gamedevelopment. I also enjoy to create Applications with [Electron]()!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></p>
