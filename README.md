@@ -13,13 +13,13 @@ $$ |  $$ |$$  _$$<  $$ |      $$ |  $$ |  $$ |    $$ |
                                                         
                                                          
 ```
-
-<p align="center"><img width="100" src="image.png"></p>
-
 ![](https://komarev.com/ghpvc/?username=ukro11) <br>
-Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are [Java](https://www.java.com/de/) and [Nodejs](https://nodejs.org/en/). I got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with [Electron](https://www.electronjs.org/)! 
+---
+Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are <a href="https://www.java.com/de/">Java</a> and <a 
+href="https://nodejs.org/en/">Nodejs</a>. I got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with <a href="https://www.electronjs.org/">Electron</a>!
 
-<h3 align="left">My favourite tools and coding languages</h3>
+My favourite tools and coding languages
+---
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <p align="left"><img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></p>
 <p align="left"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0068ba.svg?style=for-the-badge&logo=typescript&logoColor=white"/></p>
@@ -29,8 +29,12 @@ Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favou
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<h3 align"left">My favourite IDE's</h3>
-<p align="left" display="flex"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>
+My favourite IDE's
+---
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+---
 
 [![ukro11's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukro11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
