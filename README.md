@@ -14,7 +14,7 @@ $$ |  $$ |$$  _$$<  $$ |      $$ |  $$ |  $$ |    $$ |
                                                          
 ```
 ![](https://komarev.com/ghpvc/?username=ukro11) <br>
-![Stats](https://github-readme-stats.vercel.app/api?username=ukro11&show_icons=true&hide_border=true&theme=onedark) ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukro11&hide=rich%20text%20format&show_icons=true&hide_border=true&theme=onedark) <br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=ukro11&show_icons=true&hide_border=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukro11&show_icons=true&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 ---
 Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are <a href="https://www.java.com/de/">Java</a> and <a 
 href="https://nodejs.org/en/">Nodejs</a>. I got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with <a href="https://www.electronjs.org/">Electron</a>!
