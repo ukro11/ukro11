@@ -13,9 +13,12 @@ $$ |  $$ |$$  _$$<  $$ |      $$ |  $$ |  $$ |    $$ |
                                                         
                                                          
 ```
-![](https://komarev.com/ghpvc/?username=ukro11) <br>
+
+<div>
+          Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are <a target="_blank" href="https://www.java.com/de/">Java</a> and <a target="_blank" href="https://nodejs.org/en/">Nodejs</a>. I got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with <a target="_blank" href="https://www.electronjs.org/">Electron</a>!
+</div>
+
 ---
-Hello I'm ukro11 and I like to code! I'm 14 years old at the moment and my favourite coding languages are <a target="_blank" href="https://www.java.com/de/">Java</a> and <a target="_blank" href="https://nodejs.org/en/">Nodejs</a>. I got also Knowledge about Web-Development, Game-Development and Minecraft-Development. I also enjoy to create Applications with <a target="_blank" href="https://www.electronjs.org/">Electron</a>!
 
 <div align="center">
          <img src="https://github-readme-stats.vercel.app/api?username=ukro11&show_icons=true&hide_border=true&theme=tokyonight">
